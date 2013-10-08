@@ -1,8 +1,26 @@
 <resources>
 
+    <!-- activity -->
     <string name="app_name">WhatToDo</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
-
+    
+    <!-- service -->
+    <string name="service_work">insert your work to do</string>
+    
+    <!-- preference key -->
+    <string name="pref_key_work">work</string>
+    <string name="pref_key_one_per_one_hour">hour</string>
+    <string name="pref_key_d_day">dday</string>
+    <string name="pref_key_text_size">textsize</string>
+    <string name="pref_key_color_bg">colorbg</string>
+    <string name="pref_key_color_text">colortext</string>
+    <string name="pref_key_position">position</string>
+    
+    <!-- preference value -->
+	<string name="pref_value_position_top">top</string>
+	<string name="pref_value_position_center">center</string>
+	<string name="pref_value_position_bottom">bottom</string>
+	
 </resources>
